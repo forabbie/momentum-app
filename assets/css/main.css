@@ -1,20 +1,23 @@
 * {
-  /* height: 100vh; */
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 .text_white {
-  color: white;
+  color: #ffffff;
 }
+
 .fs_2 {
   font-size: 3rem;
 }
+
 .d_flex_center {
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 section {
   width: 100mv;
   height: 100vh;
@@ -36,4 +39,4 @@ section .section_bg {
 }
 section .section_content {
   text-align: center;
-}
+}/*# sourceMappingURL=main.css.map */
